@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">
+        Touch Macro Recorder
+    </string>
+
+    <string name="accessibility_description">
+        Touch Macro Recorder Accessibility Service
+    </string>
+
+</resources>
